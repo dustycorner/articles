@@ -1,0 +1,7 @@
+# VIM backup and session files
+*.clean
+Session.vim
+
+# Temp files
+?.?
+
