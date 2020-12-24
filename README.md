@@ -1,3 +1,5 @@
+# Introduction
+
 This repository contains all magazine articles that I have had published and 
 retain copyright to.
 
@@ -11,3 +13,12 @@ for instance, may be made.
 Unless a particlar article's directory contains a LICENSE file, the article is 
 available under the licence given in the LICENSE file in this top-level 
 directory.
+
+# Articles
+
+The following lists the articles included in this repository and the magazine 
+edition they were first published in, along with any notes
+
+who-are-you-calling-weak : **Who Are You Calling Weak?**, _CVu_ July 2019.  
+https://accu.org/journals/cvu/cvu31-3. Voted joint 2nd favourite article in 
+_CVu_ 2019.

@@ -1,0 +1,9 @@
+ 1: Creating with make_shared
+ 2: Allocated 104 bytes at address 0x0x562fb038fe88
+ 3: Constructing DataHolder 1
+ 4: Finished creating with make_shared, use_count=1, object @ 0x562fb038fe98
+ 5: Assigning to weak_ptr
+ 6: After assigning to weak_ptr, use_count=1
+ 7: Destroying DataHolder 1
+ 8: Exiting program
+ 9: Deallocating 104 bytes at address 0x0x562fb038fe88
