@@ -1,0 +1,16 @@
+Unless a directory contains a file named LICENSE or LICENCE.txt giving 
+a specific license for the contents of that directory, the contents of this 
+repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International (CC BY-SA 4.0) license 
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+For the purpose of CC BY-SA 4.0, the author of these articles should be given 
+as Spencer Alan Collyer. The copyright on these articles belongs to Spencer Alan 
+Collyer.
+
+One or all of the following URIs should be included to indicate where the 
+original work can be obtained from:
+
+https://github.com/dustycorner/articles.git
+https://gitlab.com/dustycorner/articles.git
+https://bitbucket.org/dustycorner/articles.git
