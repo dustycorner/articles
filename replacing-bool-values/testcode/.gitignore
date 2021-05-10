@@ -1,0 +1,11 @@
+# VIM backup and session files
+*.clean
+Session.vim
+
+# Generated files
+*.asm
+*.noopt
+*.opt
+*.out
+*.times
+*.txt
