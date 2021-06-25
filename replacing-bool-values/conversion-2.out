@@ -1,0 +1,4 @@
+Called PrintArgs(string, bool) with (Abc, false)
+Called PrintArgs(string, bool) with (Abc, true)
+Called PrintArgs(string, bool) with (Abc, true)
+Called PrintArgs(string, bool, short) with (Abc, true, 1)

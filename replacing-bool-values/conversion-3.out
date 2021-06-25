@@ -1,0 +1,4 @@
+Called PrintArgs(string, RedBlue) with (Abc, Red)
+Called PrintArgs(string, RedBlue) with (Abc, Blue)
+Called PrintArgs(string, short, RedBlue) with (Abc, 2, Red)
+Called PrintArgs(string, short, RedBlue) with (Abc, 2, Blue)

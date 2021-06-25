@@ -1,0 +1,10 @@
+conversion-1.cpp: In function ‘int main()’:
+conversion-1.cpp:19:23: error: call of overloaded ‘PrintArgs(const char [4], int)’ is ambiguous
+   19 |     PrintArgs("Abc", 2);       // 3
+      |                       ^
+conversion-1.cpp:4:6: note: candidate: ‘void PrintArgs(const string&, bool)’
+    4 | void PrintArgs(const std::string& s, bool is_blue = false)
+      |      ^~~~~~~~~
+conversion-1.cpp:9:6: note: candidate: ‘void PrintArgs(const string&, short int, bool)’
+    9 | void PrintArgs(const std::string& s, short len, bool is_blue = false)
+      |      ^~~~~~~~~
