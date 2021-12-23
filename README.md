@@ -29,3 +29,9 @@ article.
 who-are-you-calling-weak : **Who Are You Calling Weak?**, _CVu_ July 2019.  
 https://accu.org/journals/cvu/cvu31-3. Voted joint 2nd favourite article in 
 _CVu_ 2019.
+
+replacing-bool-values : **Replacing 'bool' Values**, _Overload_ June 2021, 
+https://accu.org/journals/overload/29/163/collyer/
+
+c++20-text-formatting-introduction : **C++20 Text Formatting: An Introduction**, 
+_Overload_ December 2021, https://accu.org/journals/overload/29/166/collyer/
