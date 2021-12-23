@@ -1,0 +1,6 @@
+Default: a
+Char type: a
+Decimal type: 97
+Binary type: 1100001 1100001 0b1100001 0B1100001
+Octal type: 141 0141
+Hex type: 61 61 0x61 0X61

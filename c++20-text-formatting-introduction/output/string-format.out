@@ -1,0 +1,8 @@
+Default: Hello World! Testing. Testing. Goodbye World!
+Type   : Hello World! Testing. Testing. Goodbye World!
+
+Using width and precision:
+With width: w=7:|Hello World!| w=20:|Hello World!        |
+With precision: p=4:|Hell| p=15:|Hello World!|
+With width and precision: w=7,p=4:|Hell   | w=20,p=4:|Hell                |
+With width, precision, align: |Hell    | |  Hell  | |    Hell|

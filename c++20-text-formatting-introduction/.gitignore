@@ -1,0 +1,21 @@
+# Ignore the prgs/ directory and everything below it
+prgs
+
+# Ignore output file that changes every time it is generated
+output/pointer-format.out
+
+# Ignore stdcode directory. Holds code using std::format rather than {fmt} and 
+# will be removed if/when std::format makes it into GCC or Clang before the 
+# article is published.
+stdcode
+
+# Zip files
+*.zip
+
+# VIM backup and session files
+*.clean
+Session.vim
+
+# Temp files
+?.?
+

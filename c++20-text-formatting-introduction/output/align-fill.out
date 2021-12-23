@@ -1,0 +1,11 @@
+No fill character specified:
+| default  | |left      | |  centre  | |     right|
+|       123| |123       | |   123    | |       123|
+|      1.23| |1.23      | |   1.23   | |      1.23|
+|abcde     | |abcde     | |  abcde   | |     abcde|
+
+Fill character set to '*'
+|left******| |**centre**| |*****right|
+|123*******| |***123****| |*******123|
+|1.23******| |***1.23***| |******1.23|
+|abcde*****| |**abcde***| |*****abcde|

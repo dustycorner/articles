@@ -1,0 +1,6 @@
+Specified width: |  10| |          10| |10000000| |    10000000|
+Variable width, automatic numbering: |   10| |    10000000|
+Variable width= 7, manual numbering: |     10| |10000000|
+Variable width= 8, manual numbering: |      10| |10000000|
+Variable width= 9, manual numbering: |       10| | 10000000|
+Variable width=10, manual numbering: |        10| |  10000000|

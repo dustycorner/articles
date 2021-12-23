@@ -1,0 +1,9 @@
+Default: -10 0 10
+Decimal type: -10 0 10
+Binary type: -1010 -1010 0 0 1010 1010
+Binary '#' : -0b1010 -0B1010 0b0 0B0 0b1010 0B1010
+Octal type: -12 0 12
+Octal '#' : -012 0 012
+Hex type: -a -A 0 0 a A
+Hex '#' : -0xa -0XA 0x0 0X0 0xa 0XA
+Char type: | | |~|

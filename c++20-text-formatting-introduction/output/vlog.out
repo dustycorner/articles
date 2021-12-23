@@ -1,0 +1,3 @@
+Error 1: Bad input detected: 10.1 is not an integer value
+Error 10: Oops - Type mismatch between var1 and 10
+Error 255: Something went wrong!

@@ -1,0 +1,15 @@
+Default:
+Default: -inf inf -nan nan
+Type f : -inf inf -nan nan
+Type F : -INF INF -NAN NAN
+
+Alternate form:
+Default: -inf inf -nan nan
+Type f : -inf inf -nan nan
+Type F : -INF INF -NAN NAN
+
+Width=7:
+Default: |-inf   | |inf    | |-nan   | |nan    |
+
+Width=7, using '0':
+Default: |   -inf| |    inf| |   -nan| |    nan|
